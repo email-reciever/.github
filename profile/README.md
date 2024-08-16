@@ -4,7 +4,7 @@ A website that automatically translates subscription source emails and organizes
 
 ## 📧 Subscribes
 
-All subscription feeds can be found [WHITE-LISTS](/packages/consts/src/white-lists.ts):
+All subscription feeds can be found [WHITE-LISTS](https://github.com/email-reciever/website/main/packages/consts/src/white-lists.ts):
 
 | Source         | Email                                   |
 | :------------- | :-------------------------------------- |
@@ -17,11 +17,11 @@ All subscription feeds can be found [WHITE-LISTS](/packages/consts/src/white-lis
 | ARCUPDATE      | members@arc.net                         |
 | ALEXKONDOV     | alexkondov38@147790190.mailchimpapp.com |
 | INSIDERGITHUB  | insider@github.com                      |
-| ZHIHU          | ihttps://rsshub.tinsfox.com             |
+| ZHIHU          | https://rsshub.tinsfox.com              |
 
 ## 👀 Want to get more?
 
-Click [Create A Issue](https://github.com/email-reciever/website/issues/new) with tip format to submit your subscrib url. or add my email - [jiangjiangjiangxi@gmail.com](jiangjiangjiangxi@gmail.com) to your publish list.
+Click [Create A Issue](https://github.com/email-reciever/website/issues/new?assignees=&labels=Subscribe&projects=&template=submit_subscribe.md&title=%5BSubscribe%5D%3A+) with tip format to submit your subscrib url. or add my email - [jiangjiangjiangxi@gmail.com](jiangjiangjiangxi@gmail.com) to your publish list.
 
 ## 👻 Usage Libiary
 
